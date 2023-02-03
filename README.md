@@ -3,8 +3,6 @@
 <img align="right" width="400" src="https://media2.giphy.com/media/toma5UQ6DHndC/giphy.gif" alt="Coding" srcset="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitakri963&label=Profile%20views&color=0e75b6&style=flat" alt="ankitakri963" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/anshu_kr_96" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/anshu_kr_96?logo=twitter&style=for-the-badge" alt="https://twitter.com/anshu_kr_96" /></a> </p>
-
 - 🔭 I’m currently working on **Employee Leave Management Syste.m**
 
 - 🌱 I’m currently learning **PHP, MySql, Laravel, Bootstrap 5.**
